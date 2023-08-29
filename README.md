@@ -3,6 +3,6 @@ This is crowd sourcing app
 
 # Getting Started
 
-# Requirements
+## Requirements
 
-# Quickstart
+## Quickstart
